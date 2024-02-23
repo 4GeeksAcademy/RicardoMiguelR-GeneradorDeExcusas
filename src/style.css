@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgba(207, 190, 31, 0.925);
+}
+
+#Excuse {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#OMG {
+  font-family: fantasy;
+  margin-top: 15cap;
+}
